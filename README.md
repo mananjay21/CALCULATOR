@@ -1,4 +1,11 @@
 # CALCULATOR
  Simple calculator by using HTML,CSS and JavaScript
- 
-![image](https://user-images.githubusercontent.com/52691060/138810428-f7b9842d-4889-4977-a10a-84b5e52040fa.png)
+
+
+
+![image](https://user-images.githubusercontent.com/52691060/138810539-581efd66-f047-46bb-9709-0b1c65d5d593.png)
+
+Simple Calculator
+
+
+
