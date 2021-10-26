@@ -1,0 +1,97 @@
+/* now we are going to write a code for css part */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    width: 100vw;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    padding-top: 10vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #222831;
+    font-family: sans-serif;
+}
+/* for calculator style*/
+.calculator{
+    width: 300px;
+    padding-bottom: 15px;
+    border-radius: 7px;
+    background-color: #000;
+    box-shadow: 5px 8px 8px -2px rgba(0,0,0,0.61);
+}
+/*Claculator style ends */
+
+/*Star background code */
+
+
+/*Star end */
+
+
+
+/*display*/
+.display{
+    width: 100%;
+    height: 80px;
+    border: none;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 2rem;
+    background-color: #00ff44;
+    color: #000;
+    text-align: right;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+/*Display ends */
+/*keys 
+.keys{
+    width: 100%;
+    height: 220px;
+    padding: 10px;
+    margin:10px;
+
+
+}
+
+/*Keys end */
+/*for rows*/
+.row{
+    display: inline-flex;
+    justify-content: space-between; 
+}
+/*Rows style ends */
+
+
+/*Butoon*/
+button{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: none;
+    outline: none;
+    font-size: 1.5rem;
+    background-color: #222;
+    color: #fff;
+    margin:10px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+/*Button style ends */
+/*operator starts */
+.operator{
+    background-color: #00ff44;
+    color: #000;
+}
+
+/*Operator style ends */
+
+
+
+
+
